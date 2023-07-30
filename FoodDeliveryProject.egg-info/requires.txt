@@ -1,7 +1,6 @@
 Flask
-pandas
-numpy
-scikit-learn
 geopy
+numpy
+pandas
+scikit-learn
 seaborn
--e .
